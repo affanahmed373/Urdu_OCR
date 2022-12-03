@@ -1,0 +1,1 @@
+The purose of Urdu Optical character recognition is to use and test diffrent Deep Learning models for compuyer vision and use to test and play with different methods such as use of gans to imporove the datasets
